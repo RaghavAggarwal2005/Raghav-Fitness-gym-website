@@ -1,2 +1,2 @@
 # Raghav Fitness Gym website
- it is gym website made up od html and css
+ it is gym website made up of html and css
